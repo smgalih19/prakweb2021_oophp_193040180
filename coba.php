@@ -1,7 +1,7 @@
 <?php
 
-class Coba
-{
+class Coba{
+
 }
 
 $a = new Coba();
